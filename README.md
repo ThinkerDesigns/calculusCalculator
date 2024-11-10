@@ -8,7 +8,7 @@ All you have to do is simply:
 3) Enter the expression (Make sure to put it in with parenthesis so as not to confuse the program about what expression is being typed out)
 4) Press enter and watch the magic happen!
 ## Demo Link
-Will give once finished
+[Demo](https://colab.research.google.com/gist/ThinkerDesigns/76e9429f4ddc3e425735a841cf7be2a2/calculuscalculator.ipynb)
 ## Screenshots
 ### Derivation
 ![image](https://github.com/user-attachments/assets/8376fa4b-94f2-4595-9a28-3601b3b375be)
