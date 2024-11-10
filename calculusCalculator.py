@@ -1,3 +1,4 @@
+# Made by ThinkerDesigns https://github.com/ThinkerDesigns/calculusCalculator/tree/main
 from sympy import symbols, diff, integrate, simplify, trigsimp, pprint
 from sympy.parsing.sympy_parser import parse_expr, standard_transformations, implicit_multiplication_application
 
